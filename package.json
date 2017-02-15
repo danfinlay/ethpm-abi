@@ -1,0 +1,25 @@
+{
+  "name": "ethpm-abi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abi.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flyswatter/ethpm-abi.git"
+  },
+  "keywords": [
+    "ethereum",
+    "abi",
+    "ethpm",
+    "json"
+  ],
+  "author": "Dan Finlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyswatter/ethpm-abi/issues"
+  },
+  "homepage": "https://github.com/flyswatter/ethpm-abi#readme"
+}
